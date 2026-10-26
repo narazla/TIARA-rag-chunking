@@ -116,8 +116,3 @@ Hasil disimpan ke `hasil_jawaban_gemini-3.5-flash-lite_{UKURAN_CHUNK}token.csv`.
 ## Lisensi dan Atribusi
 
 Dokumen sumber adalah dokumen publik Kementerian Kesehatan Republik Indonesia dan digunakan untuk keperluan penelitian akademik. Hak cipta dokumen tetap pada Kemenkes.
-
-## Penulis
-
-Nazla Azzahra Hermana  
-Program Studi Informatika, Universitas Diponegoro
