@@ -1,0 +1,214 @@
+no,pertanyaan,jawaban_acuan,jawaban_sistem,sumber_terambil,waktu_respons,token_prompt,tipe_pertanyaan,model_llm,ukuran_chunk
+1,Apa kriteria diagnosis demensia menurut DSM-5?,Kriteria DSM-5 mensyaratkan adanya penurunan kognisi signifikan dibanding performa sebelumnya pada satu atau lebih domain kognitif. Penurunan ini harus mengganggu kemandirian dan minimal membutuhkan bantuan pada aktivitas keseharian instrumental yang kompleks.,"Berdasarkan dokumen di atas, kriteria *major neurocognitive disorders* (demensia) menurut *Diagnostic and Statistical Manual of Mental Disorders-5* (DSM-5) adalah:
+
+1. Ditemukannya bukti penurunan kognisi yang signifikan dibanding tingkat performa pasien sebelumnya pada satu atau lebih domain kognisi (memori dan pembelajaran, bahasa, fungsi eksekutif, atensi kompleks, persepsi motorik, dan kognisi sosial).
+2. Penurunan kognisi tersebut mengganggu kemandirian dalam aktivitas keseharian (minimum membutuhkan bantuan dalam aktivitas keseharian instrumental kompleks seperti membayar tagihan dan mengurus obat-obatan).
+3. Bukan dalam kondisi delirium.
+4. Tidak disebabkan oleh gangguan psikiatrik mayor seperti depresi atau skizofrenia.",PNPK Demensia hal 16; PNPK Demensia hal 15; PNPK Demensia hal 203,6.97,1512,Faktual,gemini-3.5-flash-lite,512
+2,Apa gambaran utama demensia penyakit Parkinson (DPP)?,"Diagnosis DPP membutuhkan dua gambaran utama, yaitu diagnosis penyakit Parkinson menurut kriteria Queen Square Brain Bank dan penyakit Parkinson yang terjadi sebelum onset demensia. DPP dibedakan dari demensia Lewy body berdasarkan aturan 1 tahun antara gejala motorik dan onset demensia.","Berdasarkan dokumen tersebut, gambaran utama demensia penyakit Parkinson (DPP) adalah demensia yang terjadi pada pasien penyakit Parkinson (PP). 
+
+Untuk menegakkan diagnosis DPP, harus terdapat dua gambaran utama, yaitu:
+1. Diagnosis PP menurut kriteria Queen Square Brain Bank.
+2. PP terjadi dan berkembang sebelum mulai demensia (gejala motorik terjadi minimal 1 tahun sebelum perkembangan demensia).",PNPK Demensia hal 13; PNPK Demensia hal 14; PNPK Demensia hal 15,14.99,1707,Deskriptif,gemini-3.5-flash-lite,512
+3,Bagaimana diagnosis varian afasia nonfluen progresif ditegakkan?,"Diagnosis ditegakkan jika terdapat agrammatisme dalam produksi bahasa atau apraxia of speech, disertai gangguan pemahaman kalimat kompleks. Pengetahuan tentang objek dan kata tunggal pada pasien masih terpelihara.","Diagnosis varian afasia nonfluen progresif ditegakkan jika terdapat salah satu gambaran utama berupa agrammatisme dalam produksi bahasa atau apraxia of speech, disertai gangguan pemahaman kalimat kompleks, namun masih terpelihara pengetahuan tentang objek dan kata tunggal.",PNPK Demensia hal 14; PNPK Demensia hal 80; PNPK Demensia hal 94,5.53,1920,Deskriptif,gemini-3.5-flash-lite,512
+4,Apa yang dimaksud dengan demensia tipe campuran?,Demensia tipe campuran adalah demensia yang dijumpai pada pasien dengan penyakit degeneratif seperti Alzheimer disertai penyakit serebrovaskular. Kombinasi patologi yang paling sering dijumpai adalah patologi Alzheimer dengan patologi vaskular.,"Berdasarkan dokumen di atas, Demensia tipe campuran adalah demensia yang dijumpai pada pasien dengan penyakit degeneratif (seperti *Alzheimer’s disease*, *Lewy body disease* atau *Pick body disease*) disertai dengan *cerebrovascular disease*. Patologi yang paling sering dijumpai bersamaan adalah patologi Alzheimer’s disease (AD) dengan patologi vaskular.",PNPK Demensia hal 14; PNPK Demensia hal 15; PNPK Demensia hal 11,1.79,1720,Faktual,gemini-3.5-flash-lite,512
+5,Bagaimana risiko demensia meningkat seiring bertambahnya usia?,Risiko demensia meningkat dua kali lipat setiap 5 tahun pada individu di atas usia 65 tahun. Sekitar 50 persen individu di atas usia 85 tahun mengalami demensia.,"Berdasarkan dokumen tersebut, risiko terjadinya demensia meningkat secara nyata dengan bertambahnya usia, yaitu:
+1. Meningkat dua kali lipat setiap 5 tahun pada individu di atas 65 tahun.
+2. Sebanyak 50% individu di atas 85 tahun mengalami demensia.
+3. Dalam studi populasi pada usia di atas 65 tahun, risiko untuk semua demensia adalah *Odds Ratio* (OR) = 1,1 dan untuk Penyakit Alzheimer (PA) OR = 1,2.",PNPK Demensia hal 17; PNPK Demensia hal 18; PNPK Demensia hal 32,9.22,1771,Faktual,gemini-3.5-flash-lite,512
+6,Apa saja faktor risiko demensia yang tidak dapat dimodifikasi?,"Faktor risiko yang tidak dapat dimodifikasi meliputi usia, jenis kelamin, riwayat demensia pada keluarga, dan faktor genetik. Faktor-faktor ini berbeda dengan faktor risiko yang dapat dimodifikasi seperti gaya hidup.","Berdasarkan dokumen di atas, faktor risiko demensia yang tidak dapat dimodifikasi adalah:
+1. Usia
+2. Jenis kelamin
+3. Riwayat demensia pada keluarga
+4. Faktor genetik",PNPK Demensia hal 17; PNPK Demensia hal 19; PNPK Demensia hal 25,2.02,1777,Faktual,gemini-3.5-flash-lite,512
+7,Apakah obesitas berhubungan dengan risiko demensia?,Obesitas dengan IMT di atas 30 berhubungan dengan peningkatan risiko berkembangnya demensia berdasarkan beberapa telaah sistematik. Penurunan berat badan untuk mencapai IMT ideal menjadi salah satu komponen strategi penting pencegahan demensia.,"Ya, berdasarkan dokumen tersebut, obesitas (IMT ≥30) berhubungan dengan peningkatan risiko untuk berkembangnya demensia.",PNPK Demensia hal 25; PNPK Demensia hal 26; PNPK Demensia hal 124,5.65,1776,Faktual,gemini-3.5-flash-lite,512
+8,Apa rekomendasi PNPK terkait kebiasaan merokok untuk pencegahan demensia?,PNPK merekomendasikan upaya berhenti merokok dan menghindari paparan asap rokok pada seluruh kelompok usia. Ini merupakan salah satu upaya penurunan risiko demensia di kemudian hari.,"Berdasarkan dokumen di atas, rekomendasi terkait kebiasaan merokok adalah:
+
+Upaya berhenti merokok dan menghindari paparan asap rokok yang dilakukan oleh setiap individu pada seluruh kelompok usia merupakan salah satu upaya penurunan risiko demensia di kemudian hari. Selain itu, WHO menyarankan untuk menawarkan kepada setiap dewasa usia tua yang merokok untuk mengikuti program upaya berhenti merokok.",PNPK Demensia hal 25; PNPK Demensia hal 35; PNPK Demensia hal 24,1.96,1760,Faktual,gemini-3.5-flash-lite,512
+9,Apa manfaat terapi musik bagi pasien demensia?,"Terapi musik dapat meningkatkan fungsi kognitif secara signifikan pada pasien demensia dengan tingkat bukti Grade A Level 1. Peningkatan kualitas hidup juga dialami pasien setelah terapi musik, namun efeknya tidak bertahan dalam jangka panjang.","Berdasarkan dokumen di atas, manfaat terapi musik bagi pasien demensia adalah:
+* Dapat meningkatkan fungsi kognitif.
+* Meningkatkan kualitas hidup ODD (Orang Dengan Demensia) setelah terapi musik selesai, namun tidak memiliki efek jangka panjang.",PNPK Demensia hal 120; PNPK Demensia hal 127; PNPK Demensia hal 121,2.39,1761,Faktual,gemini-3.5-flash-lite,512
+10,Apa yang dimaksud dengan Terapi Orientasi Realitas?,"Terapi Orientasi Realitas mengatakan sesuatu secara berulang atau menunjukkan pengingat tertentu kepada orang dengan kehilangan memori ringan hingga sedang. Terdapat dua jenis, yaitu TOR 24 jam dan TOR formal atau kelas, yang dapat memperlambat penurunan kognitif.","Berdasarkan dokumen, Terapi Orientasi Realitas dikembangkan berdasarkan konsep: mengatakan sesuatu secara terus-menerus dan berulang atau menunjukkan pengingat tertentu kepada orang yang mengalami kehilangan memori ringan hingga sedang dapat menghasilkan peningkatan interaksi dengan orang sekelilingnya dan meningkatkan orientasi. Terdapat dua jenis Terapi Orientasi Realitas (TOR), yaitu TOR 24 jam dan TOR formal/kelas.",PNPK Demensia hal 120; PNPK Demensia hal 156; PNPK Demensia hal 121,2.52,1826,Deskriptif,gemini-3.5-flash-lite,512
+11,Bagaimana efektivitas donepezil untuk pengobatan demensia?,Pemberian donepezil 10 mg per hari menunjukkan hasil signifikan secara statistik dibandingkan plasebo selama 12 hingga 24 minggu. Efektivitas ini diukur menggunakan CIBIC-Plus score dan CDR Score pada studi NICE.,"Berdasarkan dokumen yang tersedia, efektivitas donepezil untuk pengobatan demensia meliputi:
+
+* **Dibandingkan dengan plasebo:** Donepezil lebih efektif dibandingkan plasebo dalam hal perbaikan fungsi kognitif yang dinilai menggunakan instrumen *Alzheimer Disease Assessment Scale-Cognition* (ADAS-Cog) berdasarkan 12 RCT. Penilaian dengan instrumen *Mini Mental State Examination* (MMSE) maupun *Severe Impairment Battery* (SIB) juga menunjukkan perbedaan yang signifikan secara statistik antara penggunaan donepezil dengan plasebo.
+* **Studi klinis dan dosis:** Studi meta-analisis dari *clinical impression of change* (CIBIC-Plus) menunjukkan hasil yang signifikan secara statistik pada pemberian donepezil 10 mg/hari dibandingkan plasebo selama 12-24 minggu. Analisis data global dari studi NICE juga menunjukkan hasil yang signifikan dalam penggunaan berbagai dosis donepezil dibandingkan plasebo selama 24-26 minggu.
+* **Pada Penyakit Alzheimer Sedang-Berat:** Pemberian terapi donepezil selama 26 minggu memberikan efek fungsi kognitif yang lebih baik dibandingkan plasebo pada skor ADAS-Cog, MMSE, dan SIB. Donepezil terbukti merupakan pengobatan yang efektif dengan efek samping yang dapat ditoleransi (seperti diare dan halusinasi) bahkan ketika diberikan pada pasien Alzheimer berat. Efektivitasnya dalam mempertahankan fungsi kognitif dan fungsi global pada pasien Alzheimer berat juga terbukti pada uji coba dan penggunaan selama 10 tahun pada pasien yang menggunakannya sejak stadium awal penyakit.",PNPK Demensia hal 130; PNPK Demensia hal 134; PNPK Demensia hal 135,2.19,1949,Faktual,gemini-3.5-flash-lite,512
+12,Obat apa yang direkomendasikan untuk demensia vaskular atau demensia campuran?,"Inhibitor kolinesterase seperti donepezil, galantamine, dan rivastigmine, serta antagonis reseptor NMDA memantine, dapat dipertimbangkan untuk pasien demensia vaskular atau campuran. Rekomendasi ini memiliki tingkat bukti Grade A Level 1.","Berdasarkan dokumen di atas, obat yang direkomendasikan untuk individu dengan demensia vaskular atau demensia campuran adalah **inhibitor kolinesterase** (seperti donepezil, galantamine, rivastigmine) dan **memantine** (antagonis reseptor NMDA).",PNPK Demensia hal 141; PNPK Demensia hal 140; PNPK Demensia hal 179,4.24,2000,Faktual,gemini-3.5-flash-lite,512
+13,Apakah obat kontrol faktor risiko vaskular terbukti memperbaiki gejala kognisi pada demensia vaskular?,"Hingga saat ini belum terbukti bahwa obat pengontrol faktor risiko vaskular seperti antihipertensi, aspirin, statin, dan antidiabetik memiliki efek terhadap gejala kognisi pada demensia vaskular. Meski demikian, terapi antihipertensi tetap perlu dipertimbangkan bila tekanan darah sistolik rata-rata mencapai 140 mmHg ke atas.","Berdasarkan dokumen di atas, hingga saat ini belum terbukti bahwa obat-obat untuk mengontrol faktor risiko vaskular (seperti antihipertensi, aspirin, statin, dan antidiabetik) memiliki efek terhadap gejala kognisi pada pasien dengan demensia vaskular (VaD).",PNPK Demensia hal 141; PNPK Demensia hal 97; PNPK Demensia hal 140,4.61,1925,Sintesis,gemini-3.5-flash-lite,512
+14,Apa yang dimaksud dengan BPSD?,"BPSD atau Behavioral Psychological Symptoms of Dementia adalah gambaran klinis umum non-kognitif dari demensia berbagai etiologi. Gejala dan frekuensinya bervariasi antar jenis demensia, misalnya halusinasi visual lebih menonjol pada demensia Lewy body sedangkan disinhibisi dan agresi lebih sering pada demensia frontotemporal.","Berdasarkan dokumen di atas, BPSD adalah singkatan dari *Behaviour And Psychological Symptoms Of Dementia* (juga dikenal sebagai gejala neuropsikiatri atau NPS). 
+
+BPSD mewakili kelompok heterogen dari gangguan psikiatrik, psikologis, suasana hati, atau perilaku seperti:
+* Agresi
+* Agitasi
+* Psikosis (halusinasi, delusi)
+* Mengembara
+* Ucapan berulang
+* Depresi
+* Kecemasan
+* Apatis
+* Perilaku sosial yang tidak pantas
+* Gangguan tidur",PNPK Demensia hal 153; PNPK Demensia hal 150; PNPK Demensia hal 152,7.1,1980,Faktual,gemini-3.5-flash-lite,512
+15,Obat apa yang direkomendasikan untuk menangani agitasi dan psikosis pada BPSD?,"Berdasarkan Konsensus Internasional Delphi International Phycogeriatric Association 2018, strategi farmakologis untuk agitasi adalah Citalopram dan Risperidone, sedangkan untuk psikosis adalah Risperidone. Untuk masa depan, Dextromethorphan/quinidine, Mirtazapine, dan Prazosin dapat dipertimbangkan.","Berdasarkan dokumen di atas, obat-obatan yang direkomendasikan untuk menangani agitasi dan psikosis pada BPSD meliputi:
+
+1. **Antipsikotik:** 
+   - Harus digunakan bersamaan dengan intervensi non-farmakologis untuk BPSD sedang hingga berat, terutama untuk pasien yang sangat gelisah, agresif, dan/atau membahayakan diri sendiri atau orang lain. 
+   - Penggunaannya harus dimulai dari dosis terendah dan dinaikkan perlahan, untuk jangka waktu sesingkat mungkin, serta didahului dengan *informed consent*.
+   - Beberapa contoh agen yang termasuk adalah antipsikotik atipikal (seperti *risperidone, olanzapine, quetiapine, aripiprazole, ziprasidone*) dan antipsikotik tipikal/konvensional (*haloperidol, perphenazine, loxapine*), di mana antipsikotik atipikal/generasi kedua saat ini lebih aman dan sering digunakan.
+
+2. **Antagonis Reseptor NMDA (Memantine):** 
+   - Disebutkan dapat mengatasi agresi, agitasi, iritabilitas, dan psikosis.
+
+3. **Antidepresan tertentu (seperti Citalopram dan Sertraline):** 
+   - Studi menunjukkan bahwa citalopram dan sertraline terbukti atau menunjukkan pengurangan gejala agitasi (meskipun penggunaan citalopram juga diimbangi dengan catatan efek samping yang serius dalam studi).",PNPK Demensia hal 167; PNPK Demensia hal 179; PNPK Demensia hal 158,9.5,2038,Faktual,gemini-3.5-flash-lite,512
+16,Apa risiko penggunaan antipsikotik generasi kedua pada pasien demensia lanjut usia?,"Risperidone dan olanzapine efektif menurunkan gejala agresif dan psikosis dibanding plasebo. Namun efek samping antipsikotik dapat berdampak negatif pada kesehatan pasien, sehingga obat harus segera ditarik jika terjadi efek samping signifikan dan pemantauan ketat diperlukan.","Berdasarkan dokumen yang tersedia, risiko penggunaan antipsikotik generasi kedua (serta obat antipsikotik pada umumnya) pada pasien demensia meliputi:
+
+* Peningkatan kematian (1,6 hingga 1,7 kali lipat seperti yang disorot oleh peringatan kotak hitam 2005 dan 2008).
+* Efek samping signifikan lainnya seperti mengantuk, jatuh, perburukan kognitif, perpanjangan QTc, dan stroke.
+* Hubungan antara peningkatan efek samping serebrovaskular dan antipsikotik (seperti risperidone dan olanzapine).
+* Efek samping yang dapat berdampak negatif pada kesehatan pasien, di mana efek samping ini dapat mengimbangi keuntungan dalam kemanjuran antipsikotik.",PNPK Demensia hal 170; PNPK Demensia hal 165; PNPK Demensia hal 181,1.89,1846,Sintesis,gemini-3.5-flash-lite,512
+17,Apa risiko penggunaan benzodiazepin pada pasien demensia dengan agitasi?,"Benzodiazepin memiliki kinerja yang lebih buruk dibanding antipsikotik dalam mengurangi agitasi. Penggunaannya dapat menyebabkan efek samping signifikan seperti peningkatan kebingungan, perburukan agitasi, dan disinhibisi paradoks.","Berdasarkan dokumen yang tersedia, risiko penggunaan benzodiazepin pada pasien dengan demensia meliputi:
+
+* Kinerja yang lebih buruk daripada antipsikotik dalam mengurangi agitasi.
+* Menyebabkan efek samping yang signifikan, yaitu:
+  * Peningkatan kebingungan
+  * Perburukan agitasi
+  * Disinhibisi paradoks
+* Berkorelasi dengan percepatan penurunan kognitif pada pasien dengan demensia.",PNPK Demensia hal 181; PNPK Demensia hal 179; PNPK Demensia hal 180,4.17,1921,Faktual,gemini-3.5-flash-lite,512
+18,Apa prinsip Truth Telling dalam etika penanganan pasien demensia?,"Truth telling adalah dasar hubungan pasien dan dokter berdasarkan prinsip autonomy, di mana diagnosis dan prognosis seharusnya disampaikan langsung kepada pasien. Namun kondisi kognitif pasien demensia yang beragam dan faktor budaya perlu dipertimbangkan, karena di budaya non-western informasi sering disampaikan lebih dulu kepada keluarga terdekat.","Berdasarkan dokumen di atas, prinsip *Truth Telling* merupakan dasar dari hubungan antara pasien dan dokter yang salah satunya didasarkan pada prinsip *autonomy*. Dalam hal ini, penyampaian informasi penyakit seperti diagnosis dan prognosis seharusnya disampaikan kepada pasien secara langsung. 
+
+Namun, pada pasien demensia, terdapat beberapa hal yang memengaruhi pelaksanaan prinsip ini:
+* Keadaan pasien demensia dengan gangguan kognitif yang beragam (dari ringan hingga berat atau *mild-severe*) dapat memengaruhi keadaan mental pasien dalam menerima informasi.
+* Stigmatisasi mengenai gangguan kognitif yang masih kental di masyarakat serta ketakutan pribadi akan kehidupannya dapat menyebabkan pasien sulit menerima kondisinya, mengalami kecemasan, putus asa, hingga mengalami penurunan fungsional.
+* Pada kebudayaan di negara non-western, sering kali diagnosis diberitahukan terlebih dahulu kepada keluarga terdekat pasien dan ditutupi dari pasien. 
+* Hal ini menimbulkan dilema antara *autonomy* pasien (hak pasien untuk mengetahui keadaannya yang sebenarnya) melawan *nonmaleficience* (kondisi pasien yang dapat memburuk setelah mendengar diagnosis).
+
+Oleh karena itu, penting bagi dokter untuk mengenali karakteristik pasien dalam menyampaikan informasi medis, menyampaikannya dengan penuh empati dan kasih (*compassion*), serta dapat mengikuti protokol penyampaian berita buruk yaitu SPIKES (*Setting, Perception, Invitation, Knowledge, Emotion, and Summarize*).",PNPK Demensia hal 190; PNPK Demensia hal 189; PNPK Demensia hal 191,5.65,1649,Sintesis,gemini-3.5-flash-lite,512
+19,Bagaimana tingkat bukti diklasifikasikan dalam PNPK Demensia?,"Tingkat bukti dalam PNPK Demensia diklasifikasikan menjadi Level 1 sampai Level 4, diadaptasi dari sistem yang digunakan SIGN dan guideline internasional lainnya. Semakin rendah angka level, semakin tinggi kualitas bukti.","Berdasarkan dokumen di atas, dalam PNPK Demensia, tingkat bukti (Level of Evidence) diklasifikasikan menjadi Level 1 sampai Level 4, dengan rincian sebagai berikut:
+
+*   **1++:** MA kualitas tinggi, telaah sistematik dari RCT, atau RCT dengan risiko bias sangat rendah
+*   **1+:** MA kualitas baik, telaah sistematik dari RCT, atau RCT dengan risiko bias rendah
+*   **1:** MA, telaah sistematik dari RCT, atau RCT dengan risiko bias tinggi
+*   **2++:** Telaah sistematik kualitas tinggi studi kasus kelola atau kohort; atau studi kasus kelola/kohort kualitas tinggi dengan risiko bias yang sangat rendah dan probabilitas tinggi adanya hubungan kausatif
+*   **2+:** Studi kasus kelola atau kohort kualitas baik dengan risiko rendah adanya bias dan probabilitas sedang adanya hubungan kausatif
+*   **2:** Studi kasus kelola atau kohort kualitas baik dengan risiko tinggi adanya bias dan risiko signifikan bahwa hubungan bukan kausatif
+*   **3:** Studi non-analitis, seperti laporan kasus, serial kasus
+*   **4:** Pendapat ahli",PNPK Demensia hal 10; PNPK Demensia hal 11; PNPK Demensia hal 9,3.09,1761,Faktual,gemini-3.5-flash-lite,512
+20,Siapa yang dimaksud sebagai caregiver informal dalam panduan ini?,"Caregiver informal adalah tenaga caregiver yang berasal dari keluarga, relawan, dan kader yang memberikan bantuan dan pendampingan kepada lansia. Tugas caregiver mencakup aspek fisik, mental, sosial budaya, dan spiritual.","Berdasarkan dokumen tersebut, yang dimaksud dengan caregiver informal adalah tenaga caregiver yang berasal dari keluarga, relawan, dan kader (atau tetangga) yang sehari-hari memberikan pendampingan dan bantuan kepada lansia.",Panduan Caregiver Kemenkes hal 13; Panduan Caregiver Kemenkes hal 11; Panduan Caregiver Kemenkes hal 5,1.45,1668,Faktual,gemini-3.5-flash-lite,512
+21,Bagaimana pengelompokan kondisi lansia berdasarkan Penilaian AKS?,"Hasil penilaian AKS dikelompokkan menjadi Mandiri, Ketergantungan Ringan, Ketergantungan Sedang, Ketergantungan Berat, dan Ketergantungan Total. Penilaian dilakukan tenaga kesehatan berdasarkan wawancara dan pengamatan langsung.","Berdasarkan dokumen, hasil penilaian AKS (Aktivitas Kehidupan Sehari-hari) dikelompokkan sebagai berikut:
+
+* Mandiri (A)
+* Ketergantungan Ringan (B)
+* Ketergantungan Sedang (B)
+* Ketergantungan Berat (C)
+* Ketergantungan Total (C)",Panduan Caregiver Kemenkes hal 13; Panduan Caregiver Kemenkes hal 105; Panduan Caregiver Kemenkes hal 104,1.3,1609,Faktual,gemini-3.5-flash-lite,512
+22,Bagaimana cara menyikat gigi yang baik dan benar untuk lansia?,"Menyikat gigi paling sedikit dilakukan dua kali sehari, yaitu setelah makan pagi dan sebelum tidur, dimulai dari bagian atas dan bawah gigi lalu bagian dalam dan belakang gigi. Hindari juga makanan yang lengket, terlalu manis, terlalu panas, terlalu dingin, atau terlalu asam karena dapat memengaruhi kesehatan gigi dan mulut.","Berdasarkan dokumen di atas, cara menyikat gigi yang baik dan benar meliputi:
+
+*   Paling sedikit menyikat gigi sehari dua kali, yaitu setelah makan pagi dan sebelum tidur.
+*   Langkah-langkah menyikat gigi:
+    1. Menyikat mulai dari bagian atas dan bawah gigi
+    2. Bagian dalam dan bagian belakang gigi
+    3. Bagian dalam dan bagian luar gigi
+    4. Bagian geraham (gigi paling belakang)
+    5. Bagian lidah dari dalam ke luar (pangkal ke ujung)",Panduan Caregiver Kemenkes hal 23; Panduan Caregiver Kemenkes hal 25; Panduan Caregiver Kemenkes hal 18,1.68,1882,Deskriptif,gemini-3.5-flash-lite,512
+23,Bagaimana cara merawat kebersihan mulut lansia yang hanya bisa berbaring?,"Lansia diposisikan setengah duduk dengan bantal sebagai pengganjal, lalu kebersihan mulut dibersihkan menggunakan kassa yang sudah dibasahi. Air tidak boleh digunakan secara langsung untuk menghindari risiko tersedak.","Berdasarkan dokumen, cara merawat kebersihan mulut dan gigi untuk lansia yang hanya dapat berbaring adalah:
+
+1. Tetap lakukan perawatan kebersihan mulut dan gigi.
+2. Posisikan lansia setengah duduk dengan mengganjal menggunakan bantal.
+3. Gunakan kassa yang sebelumnya telah dibasahi.
+4. Hindari menggunakan air secara langsung untuk menghindari risiko tersedak.",Panduan Caregiver Kemenkes hal 58; Panduan Caregiver Kemenkes hal 23; Panduan Caregiver Kemenkes hal 25,1.77,1822,Deskriptif,gemini-3.5-flash-lite,512
+24,"Bagaimana cara memotong kuku lansia dengan aman, terutama penderita diabetes?","Kaki dan tangan direndam air hangat terlebih dahulu agar kuku lebih lunak dan mudah dipotong. Kuku tidak boleh dipotong terlalu pendek atau terlalu melengkung ke dalam, terutama untuk penderita kencing manis.","Berdasarkan dokumen yang tersedia, cara memotong kuku yang baik dan aman (terutama untuk penderita kencing manis/diabetes) adalah:
+
+* Rendam kaki dan tangan dengan air hangat agar kuku lebih lunak dan mudah dipotong.
+* Memotong kuku jangan terlalu pendek dan jangan terlalu melengkung ke dalam. 
+* Bila kuku retak atau terkelupas, oleskan krim/losion berpelembab.",Panduan Caregiver Kemenkes hal 25; Panduan Caregiver Kemenkes hal 27; Panduan Caregiver Kemenkes hal 88,1.52,1814,Deskriptif,gemini-3.5-flash-lite,512
+25,Apa saja yang perlu diperhatikan agar tempat tidur lansia aman dari risiko jatuh?,"Tinggi tempat tidur perlu disesuaikan dengan tinggi badan lansia dan sebaiknya terdapat pembatas di sisi tempat tidur untuk mencegah jatuh. Kamar lansia idealnya berada di lantai dasar dan mudah dijangkau, dekat dengan toilet dan ruang makan.","Berdasarkan dokumen di atas, hal-hal yang perlu diperhatikan terkait tempat tidur agar lansia aman dari risiko jatuh adalah:
+
+1. Tinggi tempat tidur disesuaikan dengan tinggi badan lansia.
+2. Sebaiknya terdapat pembatas di sisi tempat tidur untuk mencegah jatuh.",Panduan Caregiver Kemenkes hal 30; Panduan Caregiver Kemenkes hal 64; Panduan Caregiver Kemenkes hal 68,2.02,1981,Deskriptif,gemini-3.5-flash-lite,512
+26,Apa prinsip yang harus diterapkan caregiver saat membantu lansia berpindah tempat?,"Caregiver perlu menjelaskan tiap langkah berpindah dan membiarkan lansia menyelesaikannya secara perlahan, disertai aba-aba yang jelas pada tiap tahapan. Lansia tidak boleh dicengkram, ditarik, atau diangkat pada sendi seperti siku, bahu, atau pergelangan karena dapat menyebabkan cedera.","Berdasarkan dokumen di atas, prinsip atau hal yang harus diperhatikan caregiver saat membantu lansia berpindah tempat meliputi:
+
+* Kenali batas kemampuan caregiver dan perhatikan teknik yang benar dalam memindahkan lansia, terlebih bila lansia lebih berat dari caregiver. Bila perlu, mintalah bantuan orang lain.
+* Selalu jaga posisi tubuh caregiver pada kedudukan sendi dan titik berat tubuh yang tepat dan seimbang.
+* Kenali tingkat kemampuan lansia, dan berikan bantuan yang sesuai dengan tingkat kemampuannya.
+* Dalam menentukan posisi untuk kondisi lansia yang mengalami sakit pada bagian tubuh tertentu, sebaiknya berkonsultasi dengan petugas kesehatan.
+* Berikan motivasi agar lansia turut berusaha sesuai dengan kemampuan dirinya.",Panduan Caregiver Kemenkes hal 66; Panduan Caregiver Kemenkes hal 64; Panduan Caregiver Kemenkes hal 75,1.53,1845,Deskriptif,gemini-3.5-flash-lite,512
+27,Apa saja penyebab kesulitan berkomunikasi dengan lansia?,"Kesulitan berkomunikasi dapat disebabkan masalah fisik seperti menurunnya kemampuan mendengar atau bicara, masalah perilaku, kemampuan komunikasi yang buruk, serta masalah lingkungan seperti kebisingan.","Berdasarkan dokumen tersebut, penyebab kesulitan dalam berkomunikasi meliputi:
+
+1. **Masalah fisik**: misalnya kehilangan atau menurunnya kemampuan mendengar, melihat, bicara, meraba, alat bantu dengar tak berfungsi dengan baik, dan lain-lain.
+2. **Masalah perilaku**: misalnya masalah dalam sikap, persepsi, dan tindakan (dapat dipengaruhi oleh pola asuh, pendidikan, budaya, kepercayaan, dan lain-lain, atau gejala kepikunan).
+3. **Kemampuan berkomunikasi yang buruk**:
+   - Kurangnya kemampuan dalam menyampaikan pesan termasuk bahasa, ucapan, nada, dan teknik ekspresi wajah serta bahasa tubuh.
+   - Kurang mampu mendengarkan dan mengamati dengan baik, serta menunjukkan bahwa pesan itu dipahami.
+4. **Masalah lingkungan**: misalnya lingkungan yang bising.",Panduan Caregiver Kemenkes hal 50; Panduan Caregiver Kemenkes hal 49; Panduan Caregiver Kemenkes hal 93,3.86,1644,Faktual,gemini-3.5-flash-lite,512
+28,Apa manfaat komunikasi yang baik dan kerugian komunikasi yang buruk antara caregiver dan lansia?,"Komunikasi yang baik membangun hubungan dan kepercayaan, meningkatkan saling pemahaman, dan mengurangi stres bagi caregiver maupun lansia. Sebaliknya, komunikasi yang buruk dapat menimbulkan kekesalan, frustrasi, dan kesalahpahaman yang merugikan kedua belah pihak.","Berdasarkan dokumen tersebut, berikut adalah manfaat komunikasi yang baik dan kerugian akibat komunikasi yang buruk antara caregiver dan lansia:
+
+**Manfaat Komunikasi yang Baik:**
+* Membangun hubungan dan kepercayaan yang baik
+* Meningkatkan hubungan baik dan saling memahami
+* Mengurangi stres
+
+**Kerugian akibat Komunikasi yang Buruk:**
+* Kekesalan
+* Frustrasi
+* Kesalahpahaman dan perasaan negatif lainnya",Panduan Caregiver Kemenkes hal 49; Panduan Caregiver Kemenkes hal 93; Panduan Caregiver Kemenkes hal 50,1.33,1651,Sintesis,gemini-3.5-flash-lite,512
+29,Bagaimana tatalaksana untuk mengatasi gangguan tidur pada lansia?,"Tatalaksana meliputi menjaga jadwal tidur dan bangun yang teratur, melakukan relaksasi pada sore hari, serta menghindari tidur siang lebih dari 30 menit dan minum kopi di sore hari. Konsumsi susu hangat menjelang tidur dan olahraga rutin juga dapat membantu lansia tidur lebih nyenyak.","Berdasarkan dokumen di atas, tatalaksana untuk mengatasi gangguan tidur pada lansia adalah dengan mempertahankan kebiasaan tidur sehat secara teratur melalui cara-cara berikut:
+
+* Melakukan relaksasi pada sore hari.
+* Mulai tidur dan bangun pagi pada jam yang sama setiap hari.
+* Bangun pada waktu yang sama di pagi hari walaupun malam harinya sulit tidur.
+* Menghindari tidur siang yang lama (lebih dari 30 menit) karena dapat mengganggu tidur malam harinya.
+* Melakukan latihan relaksasi untuk menolong pasien masuk tidur (seperti dzikir atau meditasi).
+* Menganjurkan pasien untuk menghindari minum kopi pada sore hari.
+* Mengonsumsi susu hangat menjelang jam tidur agar lansia bisa tidur lebih nyenyak.
+* Melakukan aktivitas atau olahraga rutin sesuai dengan kemampuan.
+* Menggunakan lampu kecil.
+* Mengurangi kebisingan.
+* Apabila dengan menggunakan cara alami gangguan tersebut belum berkurang, maka konsultasikan pada petugas kesehatan.",Panduan Caregiver Kemenkes hal 104; Panduan Caregiver Kemenkes hal 102; Panduan Caregiver Kemenkes hal 58,1.7,1674,Deskriptif,gemini-3.5-flash-lite,512
+30,Apa saja gejala fisik yang muncul akibat stres pada lansia?,"Gejala fisik akibat stres meliputi perubahan waktu tidur, mudah lelah, sakit kepala, mudah terkena demam, pusing, pingsan, berkeringat dan gemetar, kesemutan pada tangan dan kaki, serta jantung mudah berdebar.","Berdasarkan dokumen, gejala fisik yang muncul akibat stres pada lansia meliputi:
+* Perubahan waktu tidur
+* Mudah lelah sepanjang waktu
+* Sakit kepala, sakit, dan nyeri
+* Mudah terkena demam
+* Pusing
+* Pingsan
+* Berkeringat & gemetar
+* Kesemutan tangan & kaki
+* Mudah berdebar-debar",Panduan Caregiver Kemenkes hal 96; Panduan Caregiver Kemenkes hal 97; Panduan Caregiver Kemenkes hal 102,1.35,1794,Faktual,gemini-3.5-flash-lite,512
+31,Apa saja faktor yang dapat menimbulkan stres pada caregiver?,"Faktor yang dapat menimbulkan stres pada caregiver meliputi terlalu banyak pekerjaan atau kelelahan, keterampilan yang terbatas, komunikasi yang buruk, dukungan yang buruk dari lingkungan, dan masalah pribadi.","Berdasarkan dokumen di atas, beberapa faktor yang dapat menimbulkan stres pada caregiver adalah:
+
+* Terlalu banyak pekerjaan/kelelahan
+* Keterampilan terbatas
+* Komunikasi yang buruk/buntu
+* Dukungan yang buruk dari lingkungan
+* Masalah pribadi",Panduan Caregiver Kemenkes hal 9; Panduan Caregiver Kemenkes hal 97; Panduan Caregiver Kemenkes hal 94,1.28,1713,Faktual,gemini-3.5-flash-lite,512
+32,Bagaimana cara mengelola stres yang bisa dilakukan caregiver maupun lansia sehari-hari?,Salah satu cara mengelola stres yang dapat dilakukan sehari-hari adalah melakukan relaksasi dengan teknik nafas dalam dan terapi autogenik. Cara ini dapat diterapkan baik oleh caregiver maupun lansia.,"Berdasarkan dokumen di atas, cara mengelola stres yang bisa dilakukan sehari-hari oleh caregiver maupun lansia adalah dengan melakukan relaksasi menggunakan teknik napas dalam dan terapi autogenik. 
+
+Berikut adalah langkah-langkah dalam melakukan relaksasi dengan teknik napas dalam:
+
+**Langkah 1:**
+* Ambil posisi yang nyaman, misalnya duduk atau berbaring.
+* Lepaskan benda apa pun di tubuh yang mungkin mengganggu saat bersantai (misalnya jam tangan, kacamata, dan lain-lain).
+* Letakkan tangan kiri (telapak ke bawah) di atas perut.
+* Letakkan tangan kanan di atas tangan kiri sehingga beristirahat dengan nyaman dan ciptakan lingkungan yang tenang.
+* Biarkan mata tetap terbuka saat berada di posisi ini.
+
+**Langkah 2:**
+* Mulai pejamkan mata, nikmati ketenangan.
+* Tarik napas perlahan melalui hidung, tahan sebentar, selanjutnya keluarkan melalui mulut secara perlahan (usahakan saat mengeluarkan napas mulut membentuk huruf O).
+* Usahakan konsentrasi dan nikmati aliran udara.",Panduan Caregiver Kemenkes hal 9; Panduan Caregiver Kemenkes hal 97; Panduan Caregiver Kemenkes hal 94,1.77,1719,Deskriptif,gemini-3.5-flash-lite,512
+33,Apa penyebab kesepian pada lansia dan bagaimana dampaknya?,"Kesepian pada lansia dapat disebabkan berkurangnya kegiatan mengasuh anak, berkurangnya relasi sosial, meninggalnya pasangan hidup, atau anak yang meninggalkan rumah untuk bekerja dan berkeluarga. Kesepian yang berkepanjangan dapat menimbulkan perasaan tidak berdaya, kurang percaya diri, ketergantungan, dan bahkan tindakan yang merugikan diri sendiri.","Berdasarkan dokumen yang tersedia, penyebab kesepian pada lansia antara lain:
+a) Sudah berkurangnya kegiatan dalam mengasuh anak-anak.
+b) Berkurangnya teman atau relasi akibat kurangnya aktivitas di luar rumah.
+c) Kurangnya aktivitas sehingga waktu luang bertambah banyak.
+d) Meninggalnya pasangan hidup.
+e) Ditinggalkan anak-anak karena menempuh pendidikan yang lebih tinggi atau meninggalkan rumah untuk bekerja.
+f) Anak-anak telah dewasa dan membentuk keluarga sendiri.
+
+Dampak dari kesepian:
+- Dapat menimbulkan perasaan tidak berdaya, kurang percaya diri, ketergantungan, dan keterlantaran (rasa kesepian ini akan semakin dirasakan oleh lansia yang sebelumnya aktif dalam berbagai kegiatan yang berhubungan dengan orang banyak).
+- Stres akibat rasa kesepian yang berkepanjangan dapat menimbulkan tindakan yang merugikan diri sendiri bahkan dapat mendorong keinginan untuk bunuh diri.",Panduan Caregiver Kemenkes hal 96; Panduan Caregiver Kemenkes hal 94; PNPK Demensia hal 32,1.84,1718,Sintesis,gemini-3.5-flash-lite,512
+34,Apa yang perlu diperhatikan dalam menjaga kebersihan lingkungan tempat tinggal lansia?,"Baju lansia sebaiknya diganti minimal setelah mandi pagi dan sore atau saat berkeringat, sementara sprei, handuk, dan sarung bantal diganti minimal seminggu sekali. Ruangan perlu dibersihkan dan sampah dibuang setiap hari, serta jendela dibuka setiap pagi agar udara dan sinar matahari dapat masuk.","Berdasarkan dokumen di atas, hal-hal yang perlu diperhatikan dalam menjaga kebersihan lingkungan tempat tinggal lansia adalah:
+
+1. Membersihkan ruangan dan membuang sampah setiap hari.
+2. Membuka jendela dan pintu ruangan setiap pagi agar udara berganti serta mengusahakan agar sinar matahari masuk ke dalam ruangan.",Panduan Caregiver Kemenkes hal 30; Panduan Caregiver Kemenkes hal 18; Panduan Caregiver Kemenkes hal 32,1.76,1915,Deskriptif,gemini-3.5-flash-lite,512

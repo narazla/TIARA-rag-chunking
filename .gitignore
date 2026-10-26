@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables (API keys)
+.env
+.env.local
+*.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# File hasil percobaan awal yang tidak dipakai
+hasil_jawaban_256token.csv
+
+# Log dan output sementara
+*.log
+output/
+tmp/
